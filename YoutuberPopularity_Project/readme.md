@@ -1,4 +1,5 @@
 Youtuber Popularity and Analytics
+
 selenium suite and Pyquery collect data of a selected Youtuber’s subscription number, quarterly number of videos posted, number of views, average video length, advertising revenue, as well as viewer to subscriber ratio. 
 After conducting data analysis, a report that compared the quarterly performances of the selected Youtuber.
 
